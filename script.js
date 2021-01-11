@@ -7,10 +7,10 @@ let who = [
 ]
 let howLong = [
     'life imprisonment',
-    '5 лет',
-    '20 лет',
-    '15 лет',
-    '10 лет'
+    '5 years',
+    '20 years',
+    '15 years',
+    '10 years'
 ]
 let whereto = [
     'Zhodino',
